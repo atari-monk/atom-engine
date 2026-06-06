@@ -1,16 +1,12 @@
-## Atom Engine Project
+[pl](index-pl.md)
 
+## Atom Engine Project (Game Engine)
+
+- [Documentation](en/documentation/index.md)
+- [Commits](en/commits.md)
+- [Tests](en/tests.md)
 - Related Project:
     - [Ts Library](https://atari-monk.github.io/ts-library/)
-
-### Commit
-
-- chore(project): initialize with TypeScript library template (2026-06-05)
-
-### Test
-
-- manual test pass:
-    - 2026-06-
 
 ---
 
