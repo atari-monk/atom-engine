@@ -1,14 +1,16 @@
 ## Atomowy Silnik - Dokumentacja
 
-- Proceduralna
+- Proceduralnie
     - [Pętla gry](loop.md)
     - [System wejścia](input.md)
     - [Renderer](renderer.md)
-    
-- Obiekt
+    - [Audio](audio.md)
+
+- Obiektowo
     - [Pętla gry](oop/loop.md)
     - [System wejścia](oop/input.md)
     - [Renderer](oop/renderer.md)
-    
+    - [Audio](audio.md)
+
 - Typ
     - [Rdźeń](core.md)
