@@ -151,7 +151,7 @@ startLoop(loop);
 
 // później...
 stopLoop(loop);
-````
+```
 
 ---
 
