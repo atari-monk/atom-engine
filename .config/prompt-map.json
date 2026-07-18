@@ -1,0 +1,29 @@
+{
+    "question": {
+        "question": [
+            ""
+        ],
+        "context": [
+            ""
+        ]
+    },
+    "implementation": {
+        "rules": [
+            "/home/atari-monk/atari-monk/project/prompts/rules/code.md"
+        ],
+        "requirements": [
+            "/home/atari-monk/atari-monk/project/bowling-game/docs/_prompt.md"
+        ],
+        "codebase": [
+            ""
+        ]
+    },
+    "engine-codebase": [
+        "/home/atari-monk/atari-monk/project/atom-engine/src/index.ts",
+        "/home/atari-monk/atari-monk/project/atom-engine/src/core.ts",
+        "/home/atari-monk/atari-monk/project/atom-engine/src/loop.ts",
+        "/home/atari-monk/atari-monk/project/atom-engine/src/input.ts",
+        "/home/atari-monk/atari-monk/project/atom-engine/src/audio.ts",
+        "/home/atari-monk/atari-monk/project/atom-engine/src/renderer.ts"
+    ]
+}

@@ -6,12 +6,6 @@
     - [Renderer](renderer.md)
     - [Audio](audio.md)
 
-- Object
-    - [Game Loop](oop/loop.md)
-    - [Input System](oop/input.md)
-    - [Renderer](oop/renderer.md)
-    - [Audio](oop/audio.md)
-
 - Type
     - [Core](core.md)
 

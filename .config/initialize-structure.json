@@ -1,0 +1,18 @@
+{
+    "basePath": "/home/atari-monk/atari-monk/project/atom-engine",
+    "folders": [
+        "docs",
+        "docs/en",
+        "docs/pl",
+        "src"
+    ],
+    "files": [
+        "README.md",
+        "docs/index.md",
+        "docs/_config.yml",
+        ".gitignore",
+        "src/index.ts",
+        "tsconfig.json",
+        "tsup.config.ts"
+    ]
+}
