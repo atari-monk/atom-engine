@@ -23,6 +23,7 @@
         "/home/atari-monk/atari-monk/project/atom-engine/src/core.ts",
         "/home/atari-monk/atari-monk/project/atom-engine/src/loop.ts",
         "/home/atari-monk/atari-monk/project/atom-engine/src/input.ts",
+        "/home/atari-monk/atari-monk/project/atom-engine/src/mouse.ts",
         "/home/atari-monk/atari-monk/project/atom-engine/src/audio.ts",
         "/home/atari-monk/atari-monk/project/atom-engine/src/renderer.ts"
     ]
