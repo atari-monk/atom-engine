@@ -1,0 +1,3 @@
+game-object-api.md
+loop-version-1.md
+loop-version-2.md

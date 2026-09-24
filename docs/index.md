@@ -1,15 +1,5 @@
-[pl](index-pl.md)
+## Index
 
-## Atom Engine Project (Game Engine)
-
-- [Documentation](en/documentation/index.md)
-- [Commits](en/commits.md)
-- [Tests](en/tests.md)
-- Related Project:
-    - [Ts Library](https://atari-monk.github.io/ts-library/)
-
----
-
-- [Dev-Notes](https://atari-monk.github.io/dev-notes/)
-
----
+- [Game Object Api](game-object-api.md)
+- [Loop Version 1](loop-version-1.md)
+- [Loop Version 2](loop-version-2.md)

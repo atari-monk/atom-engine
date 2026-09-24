@@ -1,15 +1,18 @@
 # Atom Engine
 
-Minimal TypeScript Game Engine Library.
+- Minimal
+- Typescript
+- Game engine
+- Library
 
 ## Install
 
+```sh
 pnpm add atari-monk-atom-engine
+```
 
-### Usage
+## Usage
 
 ```ts
 import { hello } from "atari-monk-atom-engine";
-
-
 ```
